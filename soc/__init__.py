@@ -16,7 +16,8 @@ logging.basicConfig(
 
 
 ELI_API_KEY = "eli-9c81e82f-1e98-4439-a169-a820c30e2fa8"
-ELI_API_URL = "https://gateway.eli.gaia.gic.ericsson.se" 
+# ELI_API_URL = "https://gateway.eli.gaia.gic.ericsson.se" 
+ELI_API_URL = "https://gateway.language-intelligence.internal.ericsson.com"
 
 ROOT_DIR = Path(os.path.dirname(os.path.abspath(__file__))).parent.absolute()
 RES_DIR = os.path.join(ROOT_DIR, "resources")

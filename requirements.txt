@@ -1,12 +1,6 @@
-streamlit ~= 1.37
-numpy~=1.26.4
-requests~=2.31.0
-atlassian-python-api~=3.41.11
-beautifulsoup4~=4.12.3
-faiss-cpu~=1.8.0
-numpy~=1.26.4
-requests ~=2.31.0
-pandas~=2.2.2
-tiktoken~=0.6.0
-langchain~=0.1.16
-googlesearch-python~=1.2.5
+streamlit == 1.37
+numpy == 1.26.4
+requests == 2.31.0
+pandas == 2.2.2
+langchain == 0.1.16
+# googlesearch-python == 1.2.5
